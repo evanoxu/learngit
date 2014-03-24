@@ -1,1 +1,2 @@
-hello git!
+#!/user/Administrator/learngit/
+print("hello git!")
